@@ -1,0 +1,22 @@
+{
+    "target": [
+        {
+            "name": "server1",
+            "host": "localhost",
+            "port": 22,
+            "user": "foo",
+            "passwd": "bar",
+            "file": "/home/foo/server1.log",
+            "encode": "UTF-8"
+        },
+        {
+            "name": "server2",
+            "host": "localhost",
+            "port": 22,
+            "user": "foo",
+            "passwd": "bar",
+            "file": "/home/foo/server2.log",
+            "encode": "UTF-8"
+        }
+    ]
+}
